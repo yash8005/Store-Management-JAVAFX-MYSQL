@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/Sell.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/CustomerGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/SellCart.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/image/yd.jpeg</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/BrandsGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/application/employe/AddEmployeController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/BLL/BrandBLL.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/sell/ViewSell.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/sell/AddCustomer.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/sell/ViewCustomer.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/UsersGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/Users.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/RmaGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/List/ListBrands.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/application/employe/ViewEmployeController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/image/yash.jpg</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/Customer.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/custom/ButtonEffect.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/HistoryController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/application/settings/BackupController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/MysqlConnector.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/CurrentProduct.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/List/ListCustomer.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/Catagory.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/UnitGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/custom/CustomPf.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/StoreKeeper/FXMLDocument.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/sell/NewSell.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/CatagoryGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/SellCartGerway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/BLL/CatagoryBLL.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/LoginController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/CurrentProductGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/ApplicationController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/RMA.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/Unit.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/DAL/Supplyer.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/MySqlConnectorGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/controller/RegistrationController.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/Getway/SupplyerGetway.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/custom/EffectUtility.java</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/About.fxml</file>
+            <file>file:/C:/Users/admin/Downloads/Store-Management-System/Store%20Management%20System/src/view/application/about/AboutMeController.java</file>
+        </group>
+    </open-files>
+</project-private>
